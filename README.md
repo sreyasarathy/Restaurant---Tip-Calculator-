@@ -1,1 +1,1 @@
-# Restaurant---Tip-Calculator-
+# Restaurant Tip-Calculator
